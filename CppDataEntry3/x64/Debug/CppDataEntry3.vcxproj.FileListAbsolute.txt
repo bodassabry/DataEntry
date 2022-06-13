@@ -1,0 +1,15 @@
+D:\C++ Projects\CppDataEntry\x64\Debug\CppDataEntry.exe.config
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.AssemblyReference.cache
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.SuggestedBindingRedirects.cache
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry.exe.config
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.GenerateResource.cache
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.CopyComplete
+D:\C++ Projects\CppDataEntry\CppDataEntry3\x64\Debug\CppDataEntry3.MyForm.resources
+D:\C++ Projects\CppDataEntry3\x64\Debug\CppDataEntry3.exe.config
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.AssemblyReference.cache
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.SuggestedBindingRedirects.cache
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.exe.config
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.Form2.resources
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.MyForm.resources
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.GenerateResource.cache
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\x64\Debug\CppDataEntry3.vcxproj.CopyComplete
