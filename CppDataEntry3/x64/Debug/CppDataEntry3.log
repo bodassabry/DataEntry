@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(203,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(233,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(261,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(267,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(266,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(266,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(271,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(285,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\CppDataEntry3\CppDataEntry3\Form2.h(283,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppDataEntry3.vcxproj -> D:\C++ Projects\CppDataEntry3\x64\Debug\CppDataEntry3.exe
